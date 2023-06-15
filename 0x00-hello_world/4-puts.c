@@ -2,7 +2,8 @@
 /**
  * main - intial start point
  *
- * return is: 0
+ * Return: is 0
+ *
  */
 int main(void)
 {
