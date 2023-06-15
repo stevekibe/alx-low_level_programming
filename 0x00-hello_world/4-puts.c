@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * multilingual puzzle
- * main
+ * main - intial start point
  *
- * return 0
+ * return is 0
  */
 int main(void)
 {
