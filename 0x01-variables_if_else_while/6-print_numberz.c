@@ -5,7 +5,7 @@
  * Return: is false 0
  *
  */
-int main (void)
+int main(void)
 {
 	int a = 0;
 
