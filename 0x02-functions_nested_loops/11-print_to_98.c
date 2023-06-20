@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "main.h"
+#include "6-abs.c"
 /**
  * print_to_98 - start of code
  *
