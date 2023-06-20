@@ -40,7 +40,11 @@ int print_sign(int n);
  * removes the negation of a number
  */
 int _abs(int);
-
+/**
+ * last digit of a number
+ * return the value
+ */
+int print_last_digit(int);
 
 
 #endif
