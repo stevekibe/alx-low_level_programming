@@ -35,6 +35,12 @@ int _isalpha(int c);
  * if zero return 0
  */
 int print_sign(int n);
+/**
+ * absolute number return
+ * removes the negation of a number
+ */
+int _abs(int);
+
 
 
 #endif
