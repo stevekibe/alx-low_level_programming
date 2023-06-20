@@ -53,6 +53,11 @@ void jack_bauer(void);
  * multiple table
  */
 void times_table(void);
+/**
+ * add two intergers
+ */
+int add(int, int);
+
 
 
 #endif
