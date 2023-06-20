@@ -45,6 +45,10 @@ int _abs(int);
  * return the value
  */
 int print_last_digit(int);
+/**
+ * 24 hours
+ */
+void jack_bauer(void);
 
 
 #endif
