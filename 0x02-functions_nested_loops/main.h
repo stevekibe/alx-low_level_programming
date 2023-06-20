@@ -22,6 +22,12 @@ void print_alphabet_x10(void);
  * if false 0
  */
 int _islower(int c);
+/**
+ * _isalpha - checks for upercase
+ * if true 1
+ * if false 0
+ */
+int _isalpha(int c);
 
 
 #endif
