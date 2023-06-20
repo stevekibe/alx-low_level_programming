@@ -7,5 +7,10 @@
  *
  */
 int _putchar(char a);
+/**
+ * print alpahbet
+ *
+ */
+void print_alphabet(void);
 
 #endif

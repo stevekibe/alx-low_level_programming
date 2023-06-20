@@ -2,14 +2,17 @@
 /**
  * main - start of program
  *
- * Return: is always false 0
+ * Return: is always false 
+ *
  *
  */
-int main(void)
+void print_alphabet(void)
 {
 	char a;
 
 	for(a = 'a'; a <= 'z' ; a++)
+	{
 		_putchar(a);
+	}
 	_putchar('\n');
 }
