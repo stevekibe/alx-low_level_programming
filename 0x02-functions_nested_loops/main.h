@@ -16,5 +16,12 @@ void print_alphabet(void);
  * print 10 times the alphabet
  */
 void print_alphabet_x10(void);
+/**
+ * _is lower -prints 
+ * if true 1
+ * if false 0
+ */
+int _islower(int c);
+
 
 #endif
