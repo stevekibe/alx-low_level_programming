@@ -5,7 +5,7 @@
  *
  * @b: used for comparison
  *
- * Return: the last digit 
+ * Return: the last digit
  *
  */
 int print_last_digit(int b)
