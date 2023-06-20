@@ -28,6 +28,13 @@ int _islower(int c);
  * if false 0
  */
 int _isalpha(int c);
+/**
+ * print sign
+ * if psitive return 1
+ * if negative return -1
+ * if zero return 0
+ */
+int print_sign(int n);
 
 
 #endif
