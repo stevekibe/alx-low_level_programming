@@ -49,6 +49,10 @@ int print_last_digit(int);
  * 24 hours
  */
 void jack_bauer(void);
+/**
+ * multiple table
+ */
+void times_table(void);
 
 
 #endif
