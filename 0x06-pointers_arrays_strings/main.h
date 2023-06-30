@@ -1,5 +1,6 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
+int _putchar(char c);
 /**
  * _strcat - nconcats string
  * @dest: destination of the string
