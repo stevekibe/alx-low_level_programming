@@ -1,5 +1,5 @@
 /**
- * _strcat -concats two arrays
+ * _strcat - concats two arrays
  *
  * @dest: destination
  * @src: source
@@ -10,6 +10,7 @@ char *_strcat(char *dest, char *src)
 {
 	int x = 0;
 	int y = 0;
+
 
 	while (dest[x])
 		x++;
