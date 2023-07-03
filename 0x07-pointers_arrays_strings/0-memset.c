@@ -3,8 +3,8 @@
  * _memset - sets the memory of the array
  * @s: array to set
  * @b: value to set it as
- * @n: number of times to set
- * Return: value of s
+ * @n:  n number of times to set
+ * Return: char value of s
 */
 char *_memset(char *s, char b, unsigned int n)
 {
