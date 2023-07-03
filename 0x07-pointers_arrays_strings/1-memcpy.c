@@ -3,8 +3,7 @@
  * @dest: destination 
  * @src: source
  * @n: number of times
- * Return: sring value
- * 
+ * Return: string value
 */
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
