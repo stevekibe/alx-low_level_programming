@@ -12,7 +12,6 @@ char *_memset(char *s, char b, unsigned int n)
 
     while (x < n)
     {
-        /* code */
         s[x] = b;
         x++;
     }
