@@ -1,3 +1,4 @@
+int _putchar(char c);
 /**
  * _memset - sets the momory of the array
  * @s: array to set
