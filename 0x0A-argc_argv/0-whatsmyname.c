@@ -1,15 +1,15 @@
-#include <stdio.h>
 #include "main.h"
+#include <stdio.h>
+#define word(x) (void)(x)
 /**
  * main - print main of the program
  * @argc: count arguments
  * @argv: Arguments
- * Return: 0 always false
+ * Return: always 0
 */
 int main(int argc, char **argv)
 {
-    (void) argc;
+    word(argc);
     print("%s\n, argv[0]");
-
     return (0);
 }
