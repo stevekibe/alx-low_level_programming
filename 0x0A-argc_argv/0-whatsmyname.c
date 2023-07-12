@@ -6,7 +6,7 @@
  * @argv: Arguments
  * Return: 0 always false
 */
-int main(int argc, char *argv)
+int main(int argc, char **argv)
 {
     (void) argc;
     print("%s\n, argv[0]");
