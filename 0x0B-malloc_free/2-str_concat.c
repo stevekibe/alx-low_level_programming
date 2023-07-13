@@ -21,13 +21,13 @@ char *str_concat(char *s1, char *s2)
         s1 = "";
     }
 
-    while (s1[a])
+    while (s1[a] != '\0')
     {
         a++;
         a1++;
     }
 
-    while (s2[a])
+    while (s2[a] != '\0')
     {
         a++;
         a2++;
