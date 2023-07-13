@@ -23,10 +23,16 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
         s1 = "";
     }
 
-    for (a1 = 0; s1[a1] != '\0'; a1++)
-    {}
-    for (a2 = 0; s2[a2] != '\0'; a2++)
-    {}
+    a1 = 0;
+    a2 = 0;
+    while (s2[a2] != '\0')
+    {
+        a2++;
+    }
+    while (s1[a1] != '\0')
+    {
+        a1++;
+    }
 
     if (n >= a2)
     {
