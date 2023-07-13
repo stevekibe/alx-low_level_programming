@@ -5,7 +5,7 @@
  * alloc_grid - creates matrix
  * @width: width of array
  * @height: height of array
- * Return: pointer 
+ * Return: pointer
  */
 int **alloc_grid(int width, int height)
 {
