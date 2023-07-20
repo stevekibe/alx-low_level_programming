@@ -1,6 +1,4 @@
 #include "function_pointers.h"
-#include <stdio.h>
-#include <stdlib.h>
 /**
  * int_index - main function
  * @array: array to go through
