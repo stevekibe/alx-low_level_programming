@@ -3,7 +3,7 @@
 /**
  * array_iterator - calls a function to act on array elements
  * @array: array name
- * @size: size of the passed array 
+ * @size: size of the passed array
  * @action: action
  * Return:void
  */
