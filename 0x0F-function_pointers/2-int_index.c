@@ -1,5 +1,5 @@
 #include "function_pointers.h"
-#include <stddef.h>
+#include <stdio.h>
 
 /**
  * int_index - a function that searches for an integer
@@ -22,5 +22,5 @@ int int_index(int *array, int size, int (*cmp)(int))
 	}
 
 	return (-1);
-	
+
 }
