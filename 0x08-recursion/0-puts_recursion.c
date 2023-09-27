@@ -1,15 +1,15 @@
 #include "main.h"
 /**
  * _puts_recursion - recurssion
- * @s: character to recurse 
- * 
+ * @s: character to recurse
+ *
 */
 void _puts_recursion(char *s)
 {
     if (*s)
     {
         _putchar(*s);
-        _puts_recursion(s++);
+        _puts_recursion(++s);
 
     }
     else
