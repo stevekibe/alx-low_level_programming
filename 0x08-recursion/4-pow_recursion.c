@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _pow_recurssion - power of number
+ * _pow_recursion - power of number
  * @x: number
  * @y: power of number
  * Return: true or false
